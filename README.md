@@ -10,4 +10,4 @@
 
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=Jeongbin1.Jeongbin1) 
 [![Blog Badge](https://img.shields.io/badge/Blog-ff9026?style=flat-square)](https://unlimitedhan.vercel.app/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square)](mailto:petitjb05@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square)](mailto:petitjb05@gmail.com)
